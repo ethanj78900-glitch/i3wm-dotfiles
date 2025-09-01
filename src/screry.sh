@@ -74,4 +74,5 @@ apply_i3_colors
 apply_alacritty_colors
 
 echo "Srcery color scheme installation complete."
+
 exit 0
