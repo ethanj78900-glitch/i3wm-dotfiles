@@ -65,3 +65,4 @@ echo "✅ Srcery color scheme installed!"
 echo "   - Open Alacritty to see colors"
 echo "   - Vim will use :colorscheme srcery"
 echo "   - Bash prompt updated"
+
